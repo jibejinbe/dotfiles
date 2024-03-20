@@ -1,0 +1,5 @@
+*
+!.gitignore
+!.zshrc
+!.p10k.zsh
+!.wezterm.lua
